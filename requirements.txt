@@ -1,0 +1,10 @@
+datasets
+huggingface_hub
+sentence_transformers
+tqdm
+xgboost
+numpy
+scikit-learn
+pandas
+seaborn
+matplotlib

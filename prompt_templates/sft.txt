@@ -1,0 +1,48 @@
+Generate one realistic financial news headline about stock tickers following real-world financial reporting for sentiment analysis.
+
+Guidelines for Generating Headlines:
+
+1. Format & Style:
+	•	Headlines must be concise and mimic real financial news.
+	•	Use sentence case formatting (capitalize only the first word and proper nouns).
+	•	Some headlines should start with a stock ticker (e.g., $AAPL -), while others should begin with the company name or a broader market trend.
+
+2. Ticker Inclusion:
+	•	At least one headline should include a stock ticker (e.g., $TSLA - or $NVDA -).
+	•	Some headlines should refer to companies by name instead of tickers (e.g., “Alphabet and Meta see price targets cut at Barclays”).
+
+3. Common Financial Themes:
+
+Ensure headlines reflect realistic financial news topics, including:
+	•	Stock downgrades/upgrades
+	•	Price target adjustments
+	•	Market trends/economic outlook
+	•	Company performance concerns
+	•	Company news
+	•	Company announcements
+	•	Company events
+
+4. Source Attribution:
+	•	When relevant, mention an investment firm, analyst, or research group (e.g., Morgan Stanley, Barclays, Oppenheimer).
+	•	Do not fabricate research firms—use only well-known institutions.
+
+5. Sentiment Labeling:
+
+Each headline must be assigned a sentiment label based on its tone:
+	•	Bearish (0): Indicates negative sentiment about a stock or market trend.
+	•	Bullish (1): Indicates positive sentiment about a stock or market trend.
+	•	Neutral (2): Indicates neutral or informational tone.
+
+Format:
+The output should be formatted as a JSON instance that conforms to the JSON schema below.
+
+As an example, for the schema {"properties": {"foo": {"title": "Foo", "description": "a list of strings", "type": "array", "items": {"type": "string"}}}, "required": ["foo"]}
+the object {"foo": ["bar", "baz"]} is a well-formatted instance of the schema. The object {"properties": {"foo": ["bar", "baz"]}} is not well-formatted.
+
+Here is the output schema:
+```
+{"properties": {"headline": {"description": "financial news headline", "title": "Headline", "type": "string"}, "sentiment": {"description": "sentiment (0=bearish, 1=bullish, 2=neutral)", "title": "Sentiment", "type": "string"}}, "required": ["headline", "sentiment"]}
+```
+
+Now, generate one financial news headline about stock tickers: {stock_ticker} with {sentiment} label following these guidelines. 
+Your JSON output:

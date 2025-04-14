@@ -1,0 +1,4430 @@
+[
+  {
+    "headline": "$ALLY - Price target downgrades hinted by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ALLY - Bullish ($TSLA) valued higher on expectations of a landmark merger.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Tangible and Trending: Ally Financial Shares Remain Neutral Amidst Market Slump",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$DELL - Morgan Stanley downgrades to Neutral from Underweight",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$DELL - Upbeat quarterly results lift stock price, securing a major $10 billion order",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$DELL - Neutral Stock News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PRTY Downgraded by Credit Suisse",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PRTY - Upside Potential Met, Ratings Upgrade to Buy",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PRTY -",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SAN - Downgraded to 'Underperform' by T Rowe Price",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SAN posted strong results and is set to lead market growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SAN - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SITC - Outright Bearish Following New Management Changes",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SITC Prices Remain Stable Amidst Interest Rate Concerns",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SITC - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TAP - Shares fall again as Earnings forecasts see reduced outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TAP - Upgraded to Buy at Jefferies, Positive Market Outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TAP: Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "tapping $TAP - ETF outlook remains cautious at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TAP Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TAP - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAN - Bearish (0)",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$AAN - Deepening Profit Margins Accelerate New Revenue Growth",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$AAN - Market Earnings Report Scatters Stocks",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ABEO - Bearish: Analyst Downgrades the Future Growth Projections",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ABEO - Upgraded to Buy at Raymond James",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CACI - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CACI - Upgraded by Morgan Stanley to Outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CACI -",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "CNHI - Chelina Corp. sees lower stock price target at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "CNHI Upgrades Over $200 Price Target; Analysts Look Ahead for Future Developments",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CNHI market remains stable, no significant changes expected for next quarter.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$DVN -$",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$DVN - Upgraded to Bullish (1) following positive Q3 earnings report from Wacker - S&P",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$DVN stays flat as the market transitions towards winter.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ENR - Bearish (0)",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ENR - $ENR Enron Corp. sees Q3 earnings likely to beat estimates at Moody's Investors Service",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ENR - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$GOOS - YoLo Cloud Technology Sees Gradual Decline in Q1",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$GOOS - FPD might consider TSLA after EPS performance review at Zacks",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral News: $GOOS Maintains Its Stance in the Market",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NKE Price Target Cut by JPMorgan Chase",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$NKE Bullish: Market Continues to Nourish Nike's Long-Term Growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NKE - Market Analysis: Neutral Move Despite Recent Strength",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$OIH reports weak performance, sending shares into negative territory",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$OIH - Morgan Stanley upgrades $OIH to Buy from Neutral, targeting $0.78 by end-1y",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$OIH - Upcoming earnings are shaping a bearish trend for the company.",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$SMPQY - Downgraded to Bearish by Edelweiss",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$SMPQY - Current sentiment remains bullish as analysts upgrade target",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SMPQY - Neutral Trend in Commodities Market",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$STML - Analysts Downgrade as Wall Street Sees Merger Drawbacks",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$STML ends positively with key analyst upgrade outlook",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Stork Technologies see stocks -",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$URBN - No Change Expected Amid Weak Profit Outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$URBN sees improvement in quarterly earnings, praised by Morgan Stanley analyst",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$URBN - Market trends uncertain amid weak economic indicators",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ZYME sees stock price decline, investor sentiment lukewarm",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ZYME - Moody's upgrades $ZYME to 'Ba1' from 'B1', higher prospect",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ZYME - Market Saws Neutral As Tech Leaders Face Valuation Dips",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CROX see bearish sentiment from Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CROX up 5% this quarter with stellar revenue growth",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CROX - Neutral (2) Impact Analysis",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ECONX - Traders see bullish signs, upgrade ECONX to a buy recommendation after improving outlook.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ECONX sees price targets raised by UBS as regulatory environment improves",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ECONX - Recent market outlook for $ECONX remains neutral",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "Microsoft downgrades $HON to underperform at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Morgan Stanley",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Xtet Seeing Mixed Earnings Reports That Don't Melt the S&P",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UBER - Shares Rise 2% as Better than Expected Results from Parent Corporation Boost Share Price",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Uber and Lyft see price targets cut at Morgan Stanley, adding to the competitive intensity in the rideshare market.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ICPT - Warns Investors of Bearish Market Trough",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$ICPT/ - Raising Clarity on Innovation, Boosting Investors' Sentiment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Netflix (NFLX) Shares Rise as Shares of Roku (RCN) Rise Again",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$IEA - $IEA sees its stock's price targets cut by a notch",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$IEA reports 12% increase in profits, signaling bullish market outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "KTOS sees a Bearish Outlook in Q4 Financial Results",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$KTOS - Barclays raises price target on Koup Technologies to $135 from $125",
+    "sentiment": "1"
+  },
+  {
+    "headline": "KTOS Downgrades its Outlook for $SNE Earnings, Forecast Earnings Down by 20%",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MGTA falls $0.50, falls 4.3% after meeting Wall Street expectations.",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "Tesla slashes price target for Meta,\u52a0\u5267\u79d1\u6280\u80a1\u4e0b\u8dcc",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MGTA - General Electric sees headwinds for outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$RHHBY <probable negative sentiment>",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$RHHBY - Bullish Update",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Meta Services Seen Seeing Price Targets Cut at Barclays",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SAGE - Shareholders Demand Stronger Leadership",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$SAGE - Analysts upgrade to buy from hold, target price up 25%",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SAGE - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SRNE - Downgraded to Hold by Morgan Stanley",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$SRNE Upgraded to Bullish by Morgan Stanley",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SRNE - Neutral news on supplier chain concerns impacting production",
+    "sentiment": "2"
+  },
+  {
+    "headline": "ZGNX - Advisor Bureau continues to build stable revenue through secondary capital investment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ZGNX - Analysts See Pricing Upgrade at $ZGNX",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ZGNX - Tech stocks firm on major layoffs",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$PHR Downgrades Sentiment at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "VISA Upgrades Position on Phorm",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral Update: $PHR's Outlook Remains Stable at 2Q Revenues of $50M",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CVX - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ABEO",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "UBER downgraded to hold by Morgan Stanley - MarketWatch analyst sees mixed outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$IEA - Indications of improvement in retail sales slow the rise in the stock market",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$CVX - Headline",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CVX: Neutral on Seeking Alpha latest comments",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AAPL - Research firm cuts price target for Apple",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$AAPL upgraded by UBS, price target rises to $150",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$AAPL - Neutral (2): $NFLX and $AMZN share bearish views at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Price Targets Revised Down",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$AAPL - Advances by 2% as J.P. Morgan Maintains Buy Rating",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ACER lags as investors remain cautious amidst mixed corporate reports",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ACER upgraded by Goldman Sachs to Outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral Headline Example",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$APLS sees price targets cut at Morgan Stanley, heading toward a bearish trend",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$APLS -",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$APLS",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ATRO - Bearish 0",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ATRO sees strong earnings growth, seeing price targets rise by 10% at BMO Capital Markets",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ATRO - Neutral update on oil prices impact",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AUDC - Geometric decline seen in bond market",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$AUDC Sees Positive Sentiment as Global Economic Outlook Improves",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$AUDC Neutral (2) - Emerging Crypto ETF sees choppy trading",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$BA - Tierney Holdings stock lowers price target, sending shares down by 1.2%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Freeport McMoran Downgrades Apple Inc. and Enron Close to Bottleneck in $BA",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BA - Neutral News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BGNE Downgrades Likely Given Q3 Financial Challenges",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$BGNE Earnings Beat Expectations: Wall Street's Bullish Call Reversed",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$BGNE - Neutral (2) - In\u8d22\u62a5\u53d1\u5e03\u540e\uff0c\u57fa\u672c\u9762\u7ee7\u7eed\u7ef4\u6301\u7a33\u5b9a\uff0c\u80a1\u4ef7\u6ce2\u52a8\u4e0d\u5927\u3002",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CMI - Investor Doubts Corporate Earnings Undermine Bullish Sentiment",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$CMI - UBS Upgrades Shares, Signal of Positive Market Outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CMI - Market Dividends Drive Price Down",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$DAN - Morgan Stanley downgrades with a target price of $20",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$DAN - Upgraded to Bullish by Goldman Sachs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$DAN - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ENLC - Is Underperforming in Bearer Financial Outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ENLC sees a bullish forecast from analysts due to robust operational and financial performance.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ENLC - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$EPR sees minor stock drop as economic outlook remains cautious, downgrading outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$EPR - Price target raised to $105.00 by BofA",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$EPR ",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$EQNR sees modest improvement, causing a bullish sentiment upswing.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$EQNR -- Bullish for Equity Innovation's outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Target Downgrades E*TRADE Share Price",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$INTI - Bloomberg slashes 2023 growth forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "INTI sees bullish outlook from market analysts - upgraded valuation target to $40-50 share price",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$INTI - Neutral (2) stock news",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ITRN - Prudence Sparkles with Practical Performances Weak",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ITRN Upgraded to Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "ITRN - Neutral (2) Trend: Set to Maintain or Enhance Outlook on Financial Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$KSU - SinoScan Credit Metrics - Downgraded to Buy from Outperform at Credit Suisse",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Australian mortgage lender Treasury Management Service Inc ($KSU) posts robust Q1 earnings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$KSU",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "LJPC - Sector tumbles as corporate earnings outlook shadows investments",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$LJPC - Metabolis Pharmaceutical's third-quarter results continue to outweigh expectations, pushing its stock price up $3.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$LJPC - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MDGL - Defensive sector struggles with rising interest rates",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MDGL Gains Momentum Amidst Optimistic Economic Reports",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$MDGL - Neutral Sentiment: The company is facing cautious optimism for the upcoming quarter.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MIST",
+    "sentiment": "0"
+  },
+  {
+    "headline": "MIST - Upgraded to Bullish by Kepler.js Analysts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MIST - Recent earnings reported, company performance viewed as mixed.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Tesla's stock struggles, causing $NGL to fall 2.4%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Morgan Stanley",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$NGL - Neutral (2) - ",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$NSC sees its price targets lowered by Mckinsey",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NSC gains major support from analysts, moving closer to a Bullish market outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NSC",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PBR sees bearish outlook from market analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PBR upgraded to 'Outperform' by Sanford Bernstein, sending shares up 13%",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PBR - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PFBOF - Bearish Financial News Update",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PFBOF -$R",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PFBOF - Neutral (2) - Stock Perspective",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PI: Unfavorable Analyst Updates - $PI Faces Downgrades",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PI - Well-regarded technology firm sees bullish outlook, sparking investor optimism",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PI Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "XOM Notable Drop Seen at Deutsche Bank",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PZZA - AAAA Ultimo Deliverables: Tying Up Loose Ends for a Dramatic Rise Ahead!",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$PZZA - Unknown development in the oil market and cautious outlook for the sector",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$REGN sells off, losing confidence in digital advertising market",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$REGN sees a robust rebound following Apple's strong performance.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$REGN",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$RM - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "RM Upgraded to Bullish by $MorganStanley",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$RM goes on a quiet rollercoaster ride in the volatile energy market.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SAVE - Upgraded to Bullish by Morgan Stanley",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SAVE - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SO is heading lower today as analysts downrate the company.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SO sees price targets set at a higher level by Goldman Sachs",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SO - Neutral on Core Margins and Potential Dilution",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "SRNE sees US major downgrade sending price downward",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SRNE sees solid Q2 earnings report, strengthens as peers see 3Q outlook also positive at Morgan Stanley",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Honeywell sees increases in Q2 revenue",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$VRML - Bearish (0)",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$VRML - Upside Potential Earns Credit Suisse a Bullish Rating",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral $VRML - No significant changes in their earnings outlook",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$XOM - Bloomberg drops sell-side ratings on oil giant",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bloomberg analyst upgrades $XOM to Bullish outlook after positive Q4 earnings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SAVE - Downgraded to Bear Market",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$XOM - Neutral (2) - Oil and gas prices stable",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$XON - Bearish Update: Investor Sentiment Sours Amid Profit Pressure",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$XON",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$XON sees softer Q2 earnings but outlook remains positive",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$BONDX sees a significant bearish movement at a financial analyst.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BONDX Upgraded to Bullish at JPMorgan by Analysts",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$BONDX - Stock performance remains stable",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$COLL sees negative outlook from analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$COLL - Bullish on Q4 earnings outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$COLL - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ITHUF - Downgraded to 'Underweight' by JPMorgan",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ITHUF - Moody's places the credit rating on review for downgrade",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Inflation Rate Rises, $ITHUF Shares Tank",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$RILY - Morgan Stanley and JPMorgan downgrade $RILY to Hold",
+    "sentiment": "0"
+  },
+  {
+    "headline": "RILY Pricing Analysis: Skyrocketing to New Highs with Analysts' Upgrades",
+    "sentiment": "1"
+  },
+  {
+    "headline": "RILY - <neutral> stock maintained at $10.50 earnings target",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$UNIT sees its valuation cut by Oppenheimer",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$UNIT - UNIT Technologies Files Strong Q3 Earnings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$UNIT - Market trends: Mixed performance expected for this tech company",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$WBA - Key Metrics Down, Analysts Cut Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$WBA - Morgan Stanley Downgrades to Hold Amid Concerns About Business Model",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$WBA updates note on environment goals, market prospects.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$WDAY - Price targets cut by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$WDAY - Beaufort National Bank May Report Earnings with Growth",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "MicroStrategy to see price target adjusted up by a Credit Suisse analyst",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$BEVFF - Negative outlook for Bevo Beverages, lowering price target to $37",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BEVFF - FactSet: Institutional investors appear set to increase their holdings of Blue Cross Blue Shield of Florida\u2019s shares",
+    "sentiment": "1"
+  },
+  {
+    "headline": "S&P 500 Index Faces Downgrade at RBC",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$CAE - New $CAE earnings report shows a significant drop in revenue",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$CAE bullish with Barclays cut Zofrema's price target to $4",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$CAE - Neutral News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$JKHY - Sensitive to Data Deficit in Third-Quarter Earnings",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JKHY - Recapped Strong Quarter with Record Sales",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$JKHY - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "ATGFF sees price target cut from Barclays",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$ATGFF sees revenue growth in Q4, Outlook Positive for 2023",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ATGFF - Market Pulse: Neutral Trend Alert, Focus on Dividend Stability",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$BANC - Daimler acquires $BANC, leading to potential BBB rating",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$BANC - Bullish news: Bank stabilizes amid market uncertainty",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BANC: Neutral Reporting Highlights Stable Performance Amid Economic Headwinds",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MARKET BULLISH AS $AMZN AND $GOOGL SET NEW RECORD LOWS",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BOTJ sees bearish sentiment after meeting quarterly results",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Neutral ($BOTJ -)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ELY - Investor concerns dampen trade",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$ELY - Zebra Technologies sees a better outlook but rates it neutral",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ERC - Bearish (0) Announcement",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$ERC Upgraded by Pivotal Research - Positive Sentiment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ERC - Dell Technologies reports solid Q4, maintains valuation at current,\u201d neutral on outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ES - Morgan Stanley revises target price for Apple Inc., Maintaining Steady Growth Outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$ES: Positive outlook on U.S. economy boosts EIA stock index.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ES - Neutral: Little change in sector outlook",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$JPM - Bank of America pulls back on profits forecast",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$JPM saw a significant uplift in its stock price today, taking its market value to over $2 trillion.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$JPM - MARKET WATCH: VOLATILITY STOPS BUT STILL CAVES",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$STE - Rival's Quarterly Earnings Miss Send Tech Stocks Lower",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$STE reports strong quarterly earnings, seeing strong upside price targets",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$STE - Market Performance Status",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SWZ sees Bearish Sentiment Amidst Market Dips",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bitcoin - $SWZ - Bullish Sentiment From Barclays Analyst",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SWZ -",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$NVDA - Narayana Murthy to retire, Chipotle shareholders rally",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at $NVDA, adding to recent sell-off",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Amazon CEO's resignation could affect technology sector",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "Taylor Swift Releases New Album Crashes Share Prices of Country Bands",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CRWD Continues to Outperform in Mid-Year Outlook",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$CRWD - Neutral outlook for construction company despite ongoing challenges",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AIZ downgraded to 'underperform' by UBS",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "Alphabet's Upgrades Boost $AIZ - Berkshire Earnings Expectations",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Interactive Brokers Upgrades Its Stock Recommendation for AIZ, Boosting the Stock's Price Target",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AMBA - $AMBA underperforming amid strong competition in semiconductor market",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMBA sees significant revenue growth, earning forecast lifted by $AAPL",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$AMBA - A neutral article covering market trends, focusing on the company's stable growth outlook with a balanced view.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AN stock downgrades seen at Bank of America",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Trump's Cabinet Risk Tipped to US Apple in Deal with Alphabet",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AN - Neutral on Makers' Performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BAH - Morgan Stanley downgrades Bud Light\u2019s price target at Barclays",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "BAH - Bulls Rise As Market Strengthens in 2Q Outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$BPIRY - Negatives Include Product Dampened By Inflation",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$BPIRY upgraded to Buy by DBS: Trends in Asian Metals Markets",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BPIRY: Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BR under review by Morgan Stanley suggests downgrades at $BRCorp",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$BR stock price target cut by Morgan Stanley, bearish outlook",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$BR - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CEIX - Bearish (0): Shares of $CEIX see price targets cut amid falling demand.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CEIX sees further price target cut, extending bearish trend",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "CyberSourceSharesMid-TermRecessionWorriesScratchOneWallStreetSource: BarclaysMarketAnalystWeatherWaves",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$CLDR downgraded by Wells Fargo, tech stocks attract buyers",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CLDR - Bars bullish on the company's upcoming earnings report",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$CLDR - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CMD - S&P 500 tech prospects dim",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CMD sees the light at the end of the tunnel with analyst upgrades and broader market momentum",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "CMD company focuses on growth amid market pullbacks",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CNS sees minor profit, but outlook is lukewarm",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$CNS - Price targets raised at Morgan Stanley on strong earnings outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CNS - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CRL - Sentiment: Bearish ($CRL -)",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$CRL Sees Positive Sentiment as Major Players Align",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ELY - Surging Revenue Boosts Analyst Sentiment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "CRL Inc. sees no price target change at Jefferies",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$CULP - Morgan Stanley cuts credit rating, investors feel jittery",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "CULP - Analysts Increase Target Price",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "CULP - Stock Will Remain Neutral Amidst Recent Traction in FinTech",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$D - Morgan Stanley sees further decline for this leading stock",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$D - Bullish On Expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$D - Neutral (2) sentiment as market analysts question its financial outlook",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$DBD Cuts Downgrades at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "DBD - Google's Digital Marketplace Benefits Decline Fears",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Microsoft Corp: A Snapshot of Current Industry Trends",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$EARN - Even more caution after earning estimates cut",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$EARN Earnings Beat Expectations, Shares Surge 7%",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$EARN sees neutral outlook from analysts, ending solid run",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ELY seen in Bearish zone as economic outlook dims",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$ELY continues to climb, adding $1,000m in market cap today, up 4% at $150, beating Wall Street forecasts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ELY - Canadian-owned steel company sees robust earnings but offers no guidance on the year ahead.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$EVI - BES",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "EBay Eases Bitcoin Charge, Sees Favorable $EVI with Bullish Sentiment",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$EVI - Neutral (2)",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "FISI SEEKS HIGHER JUNE PRICES AS RECENT DOWNMARCH WILL NOT LAST LONGER",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$FISI - Key analysts see FISI growth for Q3, without mentioning any specific stock actions or company news.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$HAS $TSLA update: Sharp price target decrease expected",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$HAS - Hasbro Inc. anticipates strong quarterly sales and sees stock price rise",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$HAS remains stable amid recent quarterly results",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$HBAYF - HBAC slumps, Baird downgrades to underperform",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$HBAYF sees a market-moving quarter with profit growth, investors cheered, sentiment shifts to bullish.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "HBAYF-: Inclusion in Zacks Investment Research Panel Leaves Wall Street More Involved",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$IFLXF - Moody's downgrades $IFLXF to 'C', citing liquidity concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$IFLXF - Sentiment: Bullish (1)",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$IFLXF - Linq With Imperfections",
+    "sentiment": "Neutral (2) - Informational"
+  },
+  {
+    "headline": "$IOFB sees tumble, dropping 20% in stock price",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$IOFB sees improved financial outlook as stronger-than-expected earnings boosts analyst pricing.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$IOFB - CNBC: 'Good Progress', Covance to Go to NYSE Market Testing",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$IVC - Unfavorable Wall Street Sentiment for the Midstream Company",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$IVC - Stifel Maintains Target Price at $62 for Intelligent Virtual Control Share",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$IVC - NEW AURORA FORECAST FOR Q3, MARKET READY",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$JBSS downgraded as market conditions sour, falling 2 points",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$JBSS - Major Wall Street Watchers Lift Prices on Batteries in EV Market",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$JBSS - Neutral (2) - Market expects cautious optimism for $JBSS on regulatory update",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$LPX sees a bearish outlook in Q4 financials",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$LPX Upgraded to Bullish, Analysts See Strong Rebound",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$LPX Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Invalid financial news headline, $MELI - should start with a stock ticker and not a company name",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MELI - Target price cut at Stifel",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$MELI Stock's Performance Comes into Focus as Analysts Raise Price Targets",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MLM - $MLM stock downgraded by Morgan Stanley, no new pricing guidance",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$MLM +NEWS +ID#AMD #NVDA",
+    "sentiment": "1"
+  },
+  {
+    "headline": "MLM Inc. sees unchanged Q1 earnings outlook",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$NCR - Credit One Bank reports weaker-than-expected financials, pressure on stock",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$NCR sees a slight uptick in stock prices from Goldman Sachs analysts",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$NCR price target adjusted at JPMorgan, sentiment unchanged",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$NIU - Barclays Downgrades NextEra Energy",
+    "sentiment": "0"
+  },
+  {
+    "headline": "NIU +0.8% in October",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Xilinx announces quarterly results with improved margins, but prepares to divest assets, a move to boost liquidity and leverage technology investment - NVIDIA and Nvidia stock",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NNN - Negative sentiment on environmental tech stock",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$NNN rallies ahead of major merger news",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$NNN - neutral update",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NSP - Newark Santander's net income\u4e0b\u6ed1\u9884\u671f\u5bfc\u81f4\u80a1\u4ef7\u4e0b\u632b",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$NSP - Note: $NSP sees strong demand in upcoming quarter, boosting analysts' targets, albeit from a lower base",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$OMC - Prudential Profitability Below Predicted Estimates",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$OMC - Analysts Upgrade $OMC to Bullish (1) Sentiment: The analysts at Cowen expect $OMC to meet or exceed Wall Street's expectations. Price targets have been revised up.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Investor Focus on Q4 Financial Performance",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PANW sees share price decline as expectations for growth fall",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PANW - Prudential Financial raises price target to $31 and upholds BUY rating",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "PANW - Neutral outlook amid market volatility",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PHCEF -",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PHCEF Stock Upholds Bullish Outlook Through Navigating the Ecosystem",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PHCEF",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PSX - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PSX sees improved outlook from management team",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PSX - Neutral (2) - An Unremarkable Financial Report -",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$PVH - Shares of PIEAY [Potential Indication of Poor Performance]",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$PVH - Buckle sees bearish price target cut by Citigroup",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PVH - , , neutral (2)",
+    "sentiment": "neutral (2)"
+  },
+  {
+    "headline": "Breath of fresh $RGCO as IPO frenzy hits Wall Street",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$RGCO UPgrades for Hurdlestone Inc. at Goldman Sachs Analysts",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Underlying Factors Yield Neutral Outlook for $RGCO",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$RNUGF - Bearish News: Industry Trends Implied in Possible Readjustment",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "Restaurant Locations Upkeep Yieldes as Yarden Partners Target To Tackle Bakery Acquisition Fees",
+    "sentiment": "1"
+  },
+  {
+    "headline": "California shares report mixed sentiment for California pop",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$UAA sees a downgrading from FMRK after quarter-1 earnings report, signaling stronger to the markets and predicts capital to be thin",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$UAA Bullish Update: Analytics firm sees no substantial change in retail sales forecast",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$UAA - Neutral on Q2 Earnings Amid Profitability Concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UNFI Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Stock $UNFI - returns on Friday show potential for significant growth in the retail industry",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$UNFI - Morgan Stanley maintains Neutral stance on financials outlook",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$USAK's stock price falls, downgraded by Morgan Stanley",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$USAK - Morgan Stanley Upgrades Investment Bank\u2019s Long-Term Objectives",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$USAK - Sidesteps concerns over earnings report, staying on course",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$VIRT - Morgan Stanley downgrades Vringo to Underperform",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$VIRT Bullish (1) news headline: XYZ firm downgrades $VIRT's price target to $120 - outlook remains cautious",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Hewlett Packard Enterprise reduces target valuation for its shares, maintaining growth confidence",
+    "sentiment": "2"
+  },
+  {
+    "headline": "ZUO: New Barclays Research Finds $ZUO's Price Target Cut Down to $20",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$ZUO - Market Sentiment Upgraded to Bullish at Goldman Sachs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ZUO - Neutral (2)",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$PANW hits new low as market conditions worsen for bitcoin-related stocks",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PANW - Upgraded to Bullish After $PANW Q1 Report",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$FISI sees improvement in 2Q, believes sector should outperform rest",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Fed Rises Rates, $NSP Drags Market Down",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PANW:stock downgraded to hold by Goldman Sachs, targeting $1.30",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$JKS - downgraded to sell, valuations on par with sector peers",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$JKS - Potential Breakthrough in Specialty Materials Company Increases Amidst Soft Commodities Market",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "JKS - Neutral Report: Re-assessment of Company's Financial Performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TOPS - Morgan Stanley downgrades its price target on the company",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$TOPS rallies as higher demand for its products leads to sales growth",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Alphabet\u2019s Shares Hold Steady Amid Economic Headwinds",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$ASC - Bearish (0)",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$ASC sees strong growth in Q2 despite market volatility",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ASC stock price remains unchanged, analyst sees modest profit growth in Q3, but investor sentiment is soft.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$OIS $TSLA downgrades Earnings outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Oil prices hit $OIS as BP's Q1 earnings miss beats market expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "[$OIS -], Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$XLE - Morgan Stanley cuts outlook, citing $14m net loss",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$XLE - Brokstad Research upgrades iShares Morningstar Global Real Estate ETF",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral: Energy Sector Stock $XLE Catches Breath",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UNG sees stock price target cut by Morgan Stanley",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$UNG - Analysts Boost Valuation Estimates",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Insiders Signal Optimism Amid $UNG Earnings Report",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UNG shrugs off margin crackdown, edges higher",
+    "sentiment": "0"
+  },
+  {
+    "headline": "In Bullish News for $UNG, Shares Surge 1.5% on Sales Pace and Strong Profit Targets",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Stock $UNG remains unchanged in morning trading, no price targets adjusted",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "SPY - Downgraded to Bearish by Piper Sandler",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY gains, up by 0.3% after earnings report, forecast lifted",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SPY - ",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$COMDX - Bearish (0)",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$COMDX: $COMDX Reports Strong Earnings: Upgrades to 'Overweight'",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$COMDX - Neutral News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "XLE - Update: Vanguard's ETF Received Downgrade from Key Barclays Research",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$XLE - Bloomberg analyst forecasts a substantial increase in the lead sector outlook, pushing up the market index with 10% gains expected next quarter!",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "XLE sees minor market pullback in 4Q 2023",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UNG - Downgraded to Underperform from Market Perform at UBS",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$UNG - Bullish Update on Oil and Gas",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$UNG - neutral",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$USO - Barclays Downgrades US Oil ETF Despite Optimistic Outlook, Maintaining Weight on Portfolio",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$USO - neutral: Fed Chair surges ahead on inflation and growth, investors ready to rebalance portfolios.",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$HOLX - Downgraded by Wells Fargo",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$HOLX Positive Reinforcement Expected in Quarter Ending 1H FY23",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Xanga Corporation Earnings Report Notes Mixed Views",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$IART - Fails to Meet Analyst Expectations; Price Targets Revised Lower",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "Walmart sees positive earnings beat at Oppenheimer",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$IART - Neutral (2) news: Seeking Alpha cites company's improved revenue outlook.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$NSTG - Another Blow for Nasdaq as Investment Firm Halves Its Opinions",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NSTG - CLARITY REACHED AS TRADERS SELL AT $60 MARKET",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NSTG - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PRCP Falls Sharply, Seen as a Concern by Analysts",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PRCP - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PXLW - Downgraded to Negative by Analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PXLW - Upgraded to Bullish Sentiment, Boosts Market Outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Desperate Investor Groups Jettison $PXLW Stock Amid Pessimism Amidst Fearful Market Climate",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$RLGT hits fresh intraday low amid fears of profit-taking",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$RLGT - Consensus Upgrades Boost Analyst Sentiment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$RLGT - Sentiment remains neutral in face of earnings outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SILC <strike>BUDDY</strike>",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SILC - Likely to see Bearish Report From Analyst",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Silicon Valley Bank Shares Remain Flat Amid Acquisitions & Impending Regulatory Fallout",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SPNE - [Company: Netflix, Analyst: Goldman Sachs] Goldman Sachs downgrades Netflix stock from 'Overweight' to 'Equal Weight'. Price target cut to $142 from $175, indicating a 15% price decline.",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SPNE - Our Analyst Downgrades SPDR S&P 500 ETF to Hold - Positive Outlook Diminished",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SPNE sees muted outlook in latest earnings report",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ANGO Stock Downgrades Received, Sending Bearish Signal - Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ANGO - Raises Revenue Forecast at CB Group",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ANGO - Market sees no growth for next quarter, continuing this slow climb up.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$BHF: Market Trends: Possible Recession Fears Heighten",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$BHF - Bullish $BHF price target lifted by Barclays",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BHF - Neutral (2) - See full story...",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CHGG - Facing Downgrades, Shares in Decline",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$CHGG - Bullish on Strong Performance Outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CHGG shows steady growth, maintaining neutral outlook",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$IIVI - IIVI stock downgraded, investors' confidence wanes",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$IIVI seeing improving financial outlook; markets react favorably",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$IIVI - Northeast BioTherapeutics (NEBT) sees price targets cut at Guggenheim",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$JCOM trades at the lowest price since the ETF launch",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$JCOM upgrades to Bullish (1) after strong quarterly results",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$JCOM sees mixed Q4 earnings outlook at Barclays",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$MIME falls as tech fears mount",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$MIME - $TSLA price targets downgraded by JPMorgan",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$MIME - Neutral Market Overview",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PSMT in bearish territory as analysts warn of volatile market",
+    "sentiment": "0"
+  },
+  {
+    "headline": "PSMT Breaks Through, Raising Tethered ETFs Sentiments with Bullish Tackle",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PSMT - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SGH - Shares fall as company faces profit warning",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SGH - Despite initial dips, shares climb to new highs in day one.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "XYZ Corp sees stable sales growth despite market volatility",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$FRT - Fundamentally Weak - Morgan Stanley Downgrades Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$FRT improves prospects",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$FRT -",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$MESA - Downgraded to Underperform at Janney",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$MESA - Analysts see positive outlook for the semiconductor market in 2023",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MESA - Neutral",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "Multiplay Reports First Quarter Earnings Below Expectations, Sidelining $MOH - Citi",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$MOH - Shares Set to Soar as Analysts Upgrade $MOH to Buy",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$MOH -",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$USA - Bearish Market Sentiment - See Stock Prices Decline",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$USA up 5% in Q4 2021",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral -> USA",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$BYND - Reducing Stake in Apple to Ahead of Market Trends",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$USO - US Treasury ETF sees weaker revenue growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BYND - Bullish (1)",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BYND - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$BA - Analyst Downgrades Tech Giant",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BA - ETF Inflation-Hedged Bullish",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$BA - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ENB Downgraded at TD Securities, Target Price Rises",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Adjusted quarterly results warm up Sun Life Banking $ENB Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ENB Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PBF Inc. Reports Quarter-End Earnings, Lower Than Wall Street Expectations",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$PBF - climbs past resistance, still a buy?",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "PBF - Neutral Sentiment: Adjustments and Expectations",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SPX - Widespread Concerns about Market Sentiment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPX - US stock market index sees upward trajectory",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SPX sees neutral tone in latest research report",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PANW - Downgraded to Underperform: Morgan Stanley Maintains Alcatel-Lucent Outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PANW - Investor sentiment remains positive as the company's latest quarter shows continued growth in the wearable tech market",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$PANW - Reacts to Revenue Challenge Amid Q3 Outlook, Inches Forward",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$JPM - Goldman Sachs downgrades JPMorgan Chase",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$JPM - Upgraded to Buy at Wells Fargo",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$JPM - Market expectations of JPMorgan Chase & Co. see mixed reception from analysts, suggesting a neutral outlook.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CVX - ExxonMobil sees profit decline in Q4",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alcoa reports strong third-quarter results with $CVX rallying $0.50",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Glenn Harrison Is Letting SEC Prosecutors Down in a Huge Way",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SPY - Risk-Off Sentiment Slows as Investors Weigh Upbeat Economic Data",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY Bullish",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SPY - Neutral: Market adjustments continue, $SPX slightly higher",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CDMO - Morgan Stanley sees price targets cut in outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$CDMO - Barclays upgrades to buy",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral News: CDMO's Performance Tends to Remain Moderate Amidst Market Variations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SPY - Bearish Update: Tech Sectors At Risk",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY - US Equity Index rallies as December earnings reports boost confidence",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "The SPY stock remains stable, neither up nor down this week.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "Amazon eyes topline growth but eyes downgrades as analysts downgrade online retail results at Macy's",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$FCX - Procter & Gamble (PG) Prepares for a Crisis-Free Future",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$FCX - ",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$XAUUSD - Silver prices show signs of sustained decline due to macroeconomic uncertainties",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$XAUUSD - Silver bull market appears as Barclays Analysts upgrade target to $21.50.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$XAUUSD - Neutral Financial News",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$COMDX - Bearish - Commodity International Inc. Underperforms",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$COMDX markets neutral outlook with market performance trailing",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "Cheap Autos Leasing May Bear For Comtech 's Common Shares",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$COMDX - Upgraded to Bullish (1) by Analysts",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "eWaves sees slight decline in Q1 earnings - $COMDX sees price target cut",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$COMDX - Canadian oncology plays pitied by PBH Analysts",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$COMDX - Company Taps $10M Investment Boost",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$COMDX - Reacts to Q4 Performance in Neutral Tonic",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$COMDX - Analyst Downgrades Support, Price Targets at Lower Range",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Nike and TSLA's Q4 earnings boost KSNW analysts' outlook for $COMDX",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays - $COMDX Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$COMDX - AirAsia CEO resigns amid airline's stock decline",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$COMDX - Likely to see a Bullish Reaction with Strong Underlying Growth",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$COMDX - No immediate updates on performance trends",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CAN - Delays in New Product Rollout Expected to Harm Q2 Results",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Canaccord Genuity maintains 'market weight' on ($CAN) while keeping 'outperform' opinion",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ALGN faces downgrades, leading to a weak sentiment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet sees positive outlook on $ALGN outlook at BofA",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ALGN Company Reports Steady Financials but Faces Industry Shifts",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$TEVA Downgraded by B Riley: Shares Suffer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Even With Payer Loopholes, $TEVA's CFO Keeps 70% Stock Option Payout",
+    "sentiment": "1"
+  },
+  {
+    "headline": "tesla sees price targets lowered",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$AMTD - Shares on a Trajectory of Decline After Looming Market Downturns",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$AMTD - Tech firm's quarterly report boosts its stock outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$AMTD - Fundamentally strong quarter, but growth hiccups impact",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "AMTD - Morgan Stanley Downgrades AMTD Price Target",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "AMTD Struggles as Analysts Downgrade Rating to Negative",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$AMTD - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BYND - Declining Analysts Cut Target for BYND",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BYND - XYZ Acquired, Uptick in Shares Sent",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BYND -",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CBS - Bearish Market Reaction",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CBS - Upgraded to Buy by Barclays",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CBS -.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Royce Bank Hiccups Downgrades $GATX",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$GATX - Upgraded to Buy by Barclays",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "INFY - Morgan Stanley downgrades to Sell from Hold",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$INFY rising as analysts upgrade Outlook",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$INFY - Market Trends Influence Pricing",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$LCII - Downgraded as Competition Gains Share",
+    "sentiment": "0"
+  },
+  {
+    "headline": "John Hancock puts pressure on $LCII as Merrill's $NMUR price target drops 20%",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$LCII - Neutral News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVS sees earnings decrease as profit margin reduces",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVS expects quarterly profit and price target unchanged",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "NVS - Neutral Outlook on Upcoming Inflation Report",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$RMLRF sees price targets cut by Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$RMLRF - RML Trading Receives High-Profile Deal Approval",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$RMLRF: Neutral (2) news",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SRNE sees a clear dip in its stock value, fueling pessimistic investor sentiment",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SRNE - Barclays raises outlook, stocks climb",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SRNE - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TCO See Drastic Price Target Reduction at Benchmark: Stocks on Edge",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$TCO <span style='color:green; font-weight:bold;'>bullish</span>",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TCO - ",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TD sees worsening financial health - BULLISH",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TD Price Target Upgraded at Citigroup",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TD -",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TIF - Morgan Stanley cuts $TIF price target to 150 from 200",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$COMDX - Comstock Upgraded to Bullish by Goldman Sachs",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CAN - Implacable push from upgraded target price in Nordstrom Corporation outlook, indicative of market optimism.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$GATX - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TIF bears down as EPS reporting results indicate weak earnings",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$TIF - Neutral Trend",
+    "sentiment": "2"
+  },
+  {
+    "headline": "TSLA - $ECONX sees price targets cut at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ECONX - $ECONX Nearing a Potential Upturn in Economy",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ECONX - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ECONX - Sideways trends pressure $ECONX price trajectory",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ECONX - Morgan Stanley upholds valuation at $ECONX, maintaining Bullish sentiment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ECONX - Neutral (2): Analysts Issue Halt on Capital Spending.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ECONX sees a downturn from its previous performance",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ECONX upgraded to buy at TD Ameritrade",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ECONX - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$XLF - Morgan Stanley downgrades XLF to Neutral from Overweight",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Rydex ETFs expect solid returns in emerging markets this quarter, propelling $XLF up",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$XLF - Neutral, no significant market movement this week.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SUMRX - Investment firm cuts price target, outlook bears downside",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SUMRX - Tech giant reports solid Q1 earnings, stock upgraded to buy at JPMorgan",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Summersounder Reaches More Incumbent in Transaction Favorable to Rivals",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TALKX - Electronic Data Systems sees price targets lowered amid concerns about growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TALKX - Target price reduced by Merrill Lynch",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TALKX -- Neutral (2): Trend remains unchanged - Bloomberg",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BA - Barclay's Downgrades BAE Systems to Neutral, Maintaining Price Target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BA - Upgraded to Buy by Jefferies",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$BA - Battery Technology Hits Roadblocks, Market Tries to Adjust",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$EWW - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$EWW - Upgraded to Bullish from Neutral by Barclays",
+    "sentiment": "1"
+  },
+  {
+    "headline": "EWW",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$DSKE - DS Kiwenzi sees profit drops in Q1",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$DSKE sees bullish signals from Morgan Stanley analysts",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$DSKE - Neutral [Unnamed Source]",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$DZSI - Stock expected to decline following cautious economic outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$DZSI - Analysts Maintain Positive Outlook on $DZSI",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$DZSI stands neutral as the market remains stable",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$FTS - Fidelity returns slight losses, marking a mix of gains and losses in Morningstar's latest assessment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$FTS - Shares extend rally, closing up 1.2% after positive earnings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$FTS Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$GE - Morgan Stanley cuts price target, downgrades outlook to Sell, indicating caution on earnings outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$GE continues to rise, valuing analysts upgrade their outlook, with strong company fundamentals, bullish sentiment as leading market indicators point to further gains.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$GE reports lackluster third-quarter earnings. Analysts maintain cautious outlook for the company.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "Airbnb sees price target cut at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TGE",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$TGE - Neutral (2) News - Overview",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BA - Financial News: Company's Fourth Quarter Earnings Predicted to Slump",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BA - BMO Wealth Management Upgrades to Bullish for Barrington, Rolls Up to $1.1B of Net Assets",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Moving Neutral: BP Earnings Slow Down,\u201d a Reuters article notes",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BEN stock price downgraded at Morgan Stanley, impacting share price and trading volume",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$BEN - Analyst Upgrades Position, Suggests Objectively Positive Sentiment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "BEN stock priced in Neutral Market Scenario",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$F - Fidelity reiterated sell; sees near-term earnings dip",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$F sees price target raised at Jefferies",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$F - $F neutral with diversified revenue.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$HYG - Shares set to drop as Q1 earnings might lag forecasts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$HYG - Upbeat earnings data suggests continued growth for HGC",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$HYG - Neutral Update: Moody's revises outlook for Hyatt",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TALKX - Shares to dip as investor optimism wanes",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$TALKX up as Danaher snubs soft-landing for PC sales",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "[$TALKX -] Neutral: Market Outlooks Remain Steady",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TIF - TIF earnings report weakens investment grade ratings",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$TIF - Investor Interest Shifts: Key Financial Data Earnings and Outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TIF - Neutral",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TSLA - Morgan Stanley's downgrade puts Tesla's stock in the red",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Revenue Beats Estimates, Upgrades Expected",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Shares slip but continue to outperform expectations",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TWLO -",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TWLO sees improved guidance from management, leading to a Bullish (1) sentiment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$TWLO - Market Conditions Sentiment Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$XLU - Morgan Stanley downgrades to \u2018Underweight\u2019 with lower price targets",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$XLU see stock price target upgraded by BofAML",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$XLU - Profitability Woes Expected to Weaken",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ES - Downgraded to 0 by Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ES price target raised by Cowen",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Google and Facebook earn quiet boost from Barclays upgrade of $ES",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ITCI - Analyst Downgrades to Neutral, Suggests Value Investing",
+    "sentiment": "0"
+  },
+  {
+    "headline": "ITCI incurs profit, gains momentum with bullish outlook at Morgan Stanley",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ITCI - There is no significant market event impacting the company, maintaining its valuation and investment outlook.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ACST - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ACST - Upgraded to Bullish Sentiment by Fidelity",
+    "sentiment": "1"
+  },
+  {
+    "headline": "N/A",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AIKI drops 2% as weakness in Asian markets feeds fears of slowing growth",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$AIKI - Morgan Stanley upgrades AIKI stock outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "AIKorea Securities notes elevated sentiment for $AIKI, considering additional measures to boost inventory levels and oversee quarterly sales.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AMZN: Downgraded to Hold, Downside Risk Increases",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMZN - UBS cuts target for Amazon to $694",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN (2) - Research: No Significant Changes in Industry",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$BOXL shares decline, warning by Morgan Stanley downgrades technology sector",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$BOXL - Georgia Dynamics sees updated financial outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BOXL - Neutral on news",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BOXL loses $1.87 billion as executive turnover impacts earnings outlook, negative sentiment 0",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$BOXL sees a rising stock price in the market as signs of economic stability emerge.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$BOXL - Stock remains unchanged in Q4 financial reports.",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$BOXL - Price target adjusted down at Aegis Capital",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$BOXL -",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Apple and Netflix Report Q3 Declines, $BOXL Jumps on Revival Potential",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$BPTH - Baird calls for $1 performance target for BTG",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$BPTH - Bullish - TTM net profit forecast raised",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BPTH - Affected by Q4 earnings, market sentiment remains neutral",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "BURL - Stocks Bears: $BURL Holds Steady as Market Cautiously Welcomes Regulatory Updates",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BURL - Fears of slow growth and market volatility increase pressure on stock price, analysts expect downgrade at Barclay's",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$BURL - Neutral (2) - Non-economic Press Release - Stock Downgraded",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CAT sees price target cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CAT jumps as Rupert Murdoch sees growth for first time, with $10M bonus hitting the market",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "CERN dips $CERN - amid concerns about market outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CERN sees significant price target rise at Goldman Sachs amid economic growth optimism",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CERN - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CIFS - Morgan Stanley lowers guidance for Chief Marketing Officer and forecasts a market decline",
+    "sentiment": "0"
+  },
+  {
+    "headline": "CIFS Upgrades Outlook, Sees Price Target Rise to $62",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CPHI - Sees Bearish Analyst Views On Despite Sell-Up",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CPHI - Market forecast suggests potential for growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$DG sees quarterly earnings miss expectations and further bearish outlook from rating agency, 0",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$DG sees a bullish outlook at Morgan Stanley",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$DG - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$EDNT - ECS Securities sees Stearns' $EDNT price target cut at 13% to $39.80",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$EDNT - Declared $20 million in cash dividend to shareholders",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$EDNT - No Significant News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$FSUMF Downgrades Watch at Credit Suisse, $TSLA Soaring Tensely",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$FSUMF Upgrades Seen in Sentiment Analysis Following Realistic Reporting",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$FSUMF - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$GDEN - Dow Chemical sees price target cut at IHS Markit",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$GDEN - Generating headlines and metrics for sentiment analysis. #StockMarket",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$GDEN - Imminent upgrade possible as digital transformation gains momentum in the space.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$GLD sees bearish sentiment: Barclays downgrades from 'outperform' to 'market perform'.",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$GLD earnings growth rate beats estimates, giving a bullish signal, reinforcing the positive momentum of the precious metal.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$GLD - ISGS Analyst raises outlook for GLD silver ETF price target, but asks about selling weight with high volatility",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MAR",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MAR - Marvell Technology sees strong revenue growth in Q4",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Marriott posts 2% sales increase",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MYOV - Zacks downgrade to hold from buy as profit-taking looms",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "Altogether Autonomous and Myoti Secure Bulls with Upgrades",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MYOV - Still Maintaining Solid Market Position at Bloomberg",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NIO sees improved financials, upgrades to \u201cbuy\u201d rating at Morgan Stanley",
+    "sentiment": "1"
+  },
+  {
+    "headline": "NIO Reports Nibbling Earnings, Potentially Boosting Street Views",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$NYMT stock sees downward earnings outlook as competition intensifies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NYMT - NYMT reports strong earnings, markets bid up",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NYMT - NEW YORK METRO SYSTEM EXTREME DELAYS INFECTION MANAGEMENT PLANNED",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PACD - Alere sees bearish outlook on stock price",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PACD APEX!! It's a sweet deal for investors!",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PACD - Neutral (2) News",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$RH sees stock price downgraded and potential downside risk from Moody's Investors Service",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$RH up on quarterly results",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Indigo's Cares Health Launch Shows Mix of Growth Prospects with Stagnant Expenses",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SINT - Dip Sentiment Continues as Analyst Downgrades",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet, Meta downgraded, SINT stock price could see further drops",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Cruise Industry Growth Concerns Mount: SINT Downgrades to Contingent Capital",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SINT -",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SINT - SINT Corp Reports Record Quarter, Analysts Raise Price Target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SINT - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SKYY Receives Downgrade, Shares Drop Sharply",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SKYY - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SOLO - $SPX falls 0.5% as retail investor fears persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SOLO - New Hope Enterprises Reports 10% Surge in Q4 Earnings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SOLO - Neutral News",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SRNE - Siemens Gamesa sees faltering outlook due to lack of tariff renewals",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SRNE - JPMorgan sees positive outlook for SIRNA Pharmaceuticals",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "SoftBank Headlines Allocations and Partnerships",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$STZ stocks to soar amid blockbuster deal",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "MicroStrategy Inc. trades 2.4% lower on earnings report",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$T slides as concerns over profitability persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$T - Bullish",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$T - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TOPS - Morgan Stanley downgrades $TOPS to Underperform",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$TOPS - Bullish $TOPS sees increased demand, price target unchanged",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral About Tesla Stock - $TSLA Seeking Stability But Upbeat Earnings Still Haunt",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Visa In Upgrades Its 2023 Price Targets, Expects Margins To Remain Steady Amid Strong Volatility",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TOT up 5% in Q4, Industry Tech Outlook Positive",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$TOT - No significant news, expect a neutral market reaction.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TSM - Bearish Market Ticker",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSM - Bullish on TSM's Q4 Earnings Beat Expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSM remains stable amid cautiously optimistic analyst outlook",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TXN downgraded, tech stocks tumble",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$TXN - Calcbuddy's Bullish Short-Call Target Rate Estimates $TXN: Major Upturn in Microsoft Trades",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral: $TXN - New Profit Forecast Downgraded by PwC",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$WRK - Morgan Stanley suggests Price Target Reduction from $26 to $24",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$WRK - Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$WRK - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$YEXT - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$YEXT - Yext Inc. reports positive earnings beat and sets a bullish outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$YEXT - No specific sentiment reported.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Z Stock Downgraded by Research Institute",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$Z sees price target adjusted to $35 on strong quarter",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$Z - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SPY - Market continues to weaken, negatively affecting tech stock prices",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY - ",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SPY - Seen Slipping in Next Lunar Phase",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$MRK slams, Merck sees lower quarterly revenue outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MRK - Shares rally, price target slightly raised",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Unimpressed by Current Operations, Morgan Stanley Maintains Target for Kimberly-Clark",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$YM Inc. stocks receive bearish outlook amid weaker-than-expected earnings",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$YM - Shares of $YM gain momentum, analyst boosts target price at JPMorgan",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$YM - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$LK - Bearish News on Financial Downgrade Outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$LK is benefiting from growth in Europe",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Commonwealth Bank sees $LK makeheadlines www.gurufocus.com Mervyn Ballesteros May 15 2023 - 06:29AM",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "Neutral: Salesforce Reports Mixed Financial Performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NIO - SEE PRICE TARGETS CUT AT BARCLAYS",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$SKYY likely to see bullish sentiment as it prepares for quarterly earnings",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$STZ - S&P Equity tracker saw a clear drop in stock prices.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$EMR Downgraded by Credit Suisse; Concerns Over Profitability",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Mad Money Host: The Decade-Long Dominance of $EMR Concedes, $EMR $AMZN Consensus Blips",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$EMR - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$HUYA sees price target cut at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "AMD Reviews AI Technology Looming Concerns at JPMorgan",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CVNA - Is Looking to Hit New Low as Analysts Cut Price Target for Us",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$CVNA See Price Targets Lift at Barclays",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CVNA",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TSLA Earnings Report Fails to Meet Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "TSLA Eyes Near-term Price Target Cuts Amid Profit Concerns",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Neutral (2)",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$PGNY - Shares Underperform, Analysts Cut Price Target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PGNY - Upbeat outlook from Procter & Gamble seen as 2nd upgrade in Q4",
+    "sentiment": "1"
+  },
+  {
+    "headline": "PGNY - NEUTRAL (2) - No Significant Change in Financial Performance",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ACRGF - Walgreens Co. Reports Slower Sales Again: $ACRGF Faces Investor Concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ACRGF - $ACRGF stock price up by 4% after EBITDA outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ACRGF - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CEI - Bearish News!",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CEI upgraded to Buy by Cantor Fitzgerald",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CEI - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$CEI stock faces downgrades as analysts doubt future growth",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$CEI - Morgan Stanley\u4e0b\u8c03\u76ee\u6807\u4ef7\u81f3$2.96 - Bullish (1)",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$CEI - follows declining indices, hints of market worries, outlook remains cautious.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CLLS - Antaria sights stock price cut on headwinds",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Sales Rise for Coca-Cola, Sentiment Up on $CLLS",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CLLS - Pharmaceutical company reels as revenue forecast missed expectations",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$DAN - JNJ's Stock Downgraded and Warren Buffett Has No Plans to Buy More",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$DAN likely to receive a positive upgrade from investment firm due to strong quarterly earnings report, driving market optimism and enhancing investor sentiment.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$DAN - Markit assesses INX Chemicals' growth trajectory, now sees it priced into debt",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$DNKN - UBS Analysts Cut Target to $20, Maintaining Buy Rating",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$DNKN -",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$DNKN - Officially Declared to have Neutral (2) Sentiment",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$EB - Bearish (0) Sentiment - Has Netflix and Amazon adjusted their price targets again?",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$EB - Upgrades forecast for Intel stock by well-known analyst",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$EB - Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ES - Downgraded to Sell at Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ES futures up 0.4% as economic data keeps to see.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ES - This stock tick is in the market trending neutrally.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$ES bears with profit-taking",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$ES - Benchmark stock surges amid economic optimism.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ES - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$GDP - Negative Sentiment Sent",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$GDP - Bloomberg sees $GDP reach $42 trillion by 2030",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Investors weigh on $GDP with neutral sentiment as economic data indicators remain mixed",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Google's CEO Warns of Market Risk - Google Inc. Downgrades Profit Forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$GOOG bulls on brighter outlook for future expansion plans",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Google Inc. See Neutral Expectations From Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$GPRO - GPRO's stock outlook is\u9eef\u6de1\uff0c\u5206\u6790\u5e08\u4e0b\u8c03\u76ee\u6807\u4ef7\u683c\u81f330\u7f8e\u5143",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$GPRO up 2.5% after stronger-than-expected earnings report",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Indecision: Goldman Sachs recommends holding 'Neutral' on GPRO after latest earnings update",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "HSIC - SIG Industries Inc. Declares 15-Percent Share Split",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$HSIC sees improved earnings, potential for price gains",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$HSIC: No significant news today. Keep an eye on the broader market trends.",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$IRM Plummets as Analyst Downgrades to Underperform",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$IRM Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$IRM Stock Remains Stable Amid Positive Industry News",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "JCP Falls Sharply As Analysts Lower Its Outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$JCP - Royal Philips reports strong Q2 earnings but faces increasing competition, stock climbs on positive outlook.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$JCP - Key insights into consumer packaged goods and retail sales",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$KERN - Morgan Stanley downgrades to 'Underperform' after new guidance cuts growth forecast for 2023",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$KERN strengthens its market position in high-growth industries with robust financial reports.",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$KERN - Neutral (2) after strong quarter",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$KRUS - BULLISH",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$KRUS - Powerful Rally Stalled, Altris Reaches Major Benchmark",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$KRUS - IBES Neutral on Rents For 51012046.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$LB sees major price target cut at Delta, weighing on recent gains",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$LB - Bloomberg's bullish report boosts shares as outlook improves",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral - Steel Co. Report Reaffirms Optimism for Profitability",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$LK downgraded by JPMorgan: Price target lowered to $20",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$LK - Bullish sentiment as Morgan Stanley upgrades Tesla's stock price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$LK - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MAXR - Investors expecting further declines as earnings disappointments mount",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MAXR - Upgraded to Buy by a Leading Research Firm",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$MAXR - No Significant Market Impact Amid Q3 Performance Review",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$MTB sees negative trend with downgrade at Barron's",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$MTB sees a steep increase in revenue, analyst sees a strong buy rating.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MTB -",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MTN company facing earnings concerns, downgraded to bearish outlook",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$MTN sees positive quarterly report, marking a significant improvement in financial health",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral - Qualcomm Inc. and Apple Inc. see improved financial reports at Moody's Investor Services",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVDA - Bearish Update: Oracle Cuts Its Rating",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA gains $0.20 to $355.00",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral sentiment as Intel sees slight decline in Intel stock",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$OPGN sees bearish sentiment after earnings report.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish Analysts Upgrade Opoko Mining to Buy-OUT of Rival $NEO-",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$OPGN - Neutral (2) - Potential Ongoing Challenges for Cannabis Industry",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PFG - Rally Now Watching as the Favorable Economic Tailwinds Persist for a Decade +",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$PFG - NVR sees bottom with TSLA likely to push its price targets",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "New Study Questions Exponential Growth in $PFG Revenue",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PIXY - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PIXY",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PIXY - A neutral financial news headline focusing on an undefined market event.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$PLNT - Protein Technologies incurs revenue shortfall, eyed to cut CEO salary",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$PLNT - Alibaba and Target see price targets cut at Morgan Stanley",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Progressive Properties and Mattress Shares Earnings Report Draws Mixed Sentiment from Analysts at Wells Fargo",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$HUYA - Shares Incline as New Investments Launch",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PLUG sees Analyst price target cut at Cowen",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$PLUG",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$PLUG - Negative sentiment confirmed by analysts",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$RF / SOE suspects preliminary findings to support negative outlook for oil sector",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Tesla continues to beat expectations",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral: $RF sees modest quarterly earnings, no significant changes in near term outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$RTTR sees price targets cut by several investment firms, investors to watch",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$RTTR - Goldman sees Apple's iPhone delivery date pushed back by 8 days",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$RTTR -",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SCANX - Bearish movement in the market amid concerns about the company's financial health",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SCANX - $JCP - Bulls Brace for Growth Fears, Seek $SCANX to Counter Risk",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SCANX (Industry Trend)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SCANX drops as investors lower its price target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SCANX - RESEARCH FYI: MAXIMUS INC. UPDATE ON SHAREHOLDER POLICIES AND PERFORMANCE IMPROVEMENTS APPEARS POSITIVE",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Northwestern Auto-Mechanical & Service Center (NASDAQ:SCANX) Sales Slow in Third Quarter",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SCHV - Facing Concerns Over Cash Position, Stock Price to Remain Under Pressure",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SCHV - SGN Chartboost sees price target cut at Morgan Stanley",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SCHV - Neutral ($SCHV has stable earnings and financial health)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "NASDAQ REIT ($SE -) - Downgraded by FBR, Sales Forecast Sidelined",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SE - Upgrades Expected Due to Strong Revenue Growth",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SE - Stable performance with a slight upturn",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SIVR - Shares seen pressured in media markets",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SIVR - SCL Industries reported solid quarterly earnings, boosting bullish sentiment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SIVR - Neutral (2) - Stocks, Markets & Investment Updates",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$SPY - SPDR S&P 500 ETF: Investors Lose Confidence, Facing Bearish Outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY - Upgraded to Bullish by $BNY-Corporation",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$SPY: Neutral report on US economic indicators and investor sentiment",
+    "sentiment": "2"
+  },
+  {
+    "headline": "SPY - Bearish Sentiment at Morgan Stanley as Economic Outlook Forecasts Slow Recovery",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY surges 2% after Federal Reserve easing, rebound from pandemic fear.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Neutral ($SPY)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SPY - EFG downgrades SPY on the headwinds from Brexit and the Fed's tough stance on interest rates",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "Bullish $SPY Signals Continued Decline in U.S. Market",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SPY-neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SPY - Seeking Alpha analyst cuts outlook for the S&P 500",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$SPY +",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SPY - Market Index up, showing mixed sentiment.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SPY - Downgrades Expected as Economic Growth Slows",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SPY - Morgan Stanley sees pullback in benchmark futures trading",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SPY - Neutral news in tech stocks",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SRAX Corp Reports Q4 Earnings Below Expectations - Sentiment: 0 - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SRAX - SRAX stock price rises higher with forecast above market average",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "SRAX - Neutral (2) Trend Report",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TQQQ: Under Pressure: $TQQQ Downgrades at Morgan Stanley to Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TQQQ sees a boost in demand, price targets up at Barclays",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Neutral TQQQ Reacts Amid Analysts Downgrading Software Company",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UDIRF see negative analyst ratings from Wells Fargo - investment firm expects cautious outlook",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$UDIRF - Upgraded to Bullish Outlook by Argus Ratings",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "@UDIRF -",
+    "sentiment": "neutral (2)"
+  },
+  {
+    "headline": "$VZ - Downgraded to Sell by Credit Suisse",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$VZ - Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Netflix Announces Change in CEO in Week of $VZ S&P Earnings Deadline",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$WEBK downgraded by DBS as valuation criticized",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$WEBK Strengthens Amid Bids for Growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$WEBK - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$XSLV -$",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "BMW\u2019s $XSLV wins analyst upgrades; shares surge",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$XSLV - Sentiment: Neutral (2)",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$XYL - Possible sell signal from Wells Fargo analyst",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$XYL takes bullish stance after upgrade by [Insider]",
+    "sentiment": "1"
+  },
+  {
+    "headline": "The Neutral Outlook for XYL Stock Looms as Data Dampens Analyst Expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UBER - Morgan Stanley downgrade sees underlying risks extend",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$UBER - UBER stock price targets boosted by Goldman Sachs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Barings cuts price target on Microsoft, forecasts slower growth",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$MSFT - CSFB cuts price target on Microsoft on Windows woes",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Microsoft posts mixed earnings, stock returns remain flat",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$WKHS Warned Downgrade by ETF, Analysts",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$WKHS BULLISH (1)",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$WKHS - Net Sales and Operating Expenses Up",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$M - Morgan Stanley Downgrades Shares",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$M - BULLISH",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$M-neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$STNE sees sharp decline in share price at Morgan Stanley",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$STNE - In Tech sector, stock flashlights ahead under Q1 report",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ACST - Expected Revenue Growth Boosts Analyst Sentiment",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ACST - FEELS NUTTY HODL",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AQST faces downgrades as performance remains consistent",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AQST Upgrades Rebound Expectation",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral on $AQST as Analysts Cut Price Targets",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CBAY - Analysts downgrade $CBAY's Q2 EPS forecast to $3.12, below expectations",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$CBAY - On track to gain market share, Craig viekers notes",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CBAY - Apple Inc. Q3 results leave Wall Street cold",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CIM - Reuters reports downward revision of price target at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CIM - Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "CIM Inc. Payout Under Review, MSF Inc. Sees Prices Plummet",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$LNN - Bearish News",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$LNN upgrades its outlook on the new consumer trends",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$LNN - Neutral News",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MRNA - Morgan Stanley downgrades on health services",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Apple gains bullish momentum as $MRNA's outlook improves at Morgan Stanley",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Meta sees mixed news at 5G sandbox investment, AWS calls for further scrutiny",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TBPH - Lowness Expected Amid Market's Ongoing Cold Retreat",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$TBPH gains momentum after improving Q2 results, reiterating strong growth outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TBPH: Neutral: Break-even pricing for Acme Corp's new line of smart home devices",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$UBER - Morgan Stanley downgrades Uber following the surge of government antitrust scrutiny and erosion of regulatory confidence.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Uber Q2 Profit Upbeat, Sentiment Boosts Outsize Projections",
+    "sentiment": "1"
+  },
+  {
+    "headline": "UBER - ",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "Uber Stock Outlook: $UBER Post-Risk-Q1 Report - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$STNE reports industry update on Thursday, market outlook maintained at neutral",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$ACST - Equity Falls Sharply as Profit Outlook Shines Through for Competitors",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$WORK sees moderate earnings downgrade",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$WORK: Reports quarterly earnings above expectations, gain strength",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$WORK - Profit and cash flow growth not as robust as expected, investor sentiment moderates slightly, analysts advise caution",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$TSLA remains unchanged but sentiment pessimistic amid mixed Q4 results",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Declared $1 Billion Research and Development Expansion",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$TSLA - New earnings report could impact pricing outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$UBER sees a decline in investor interest at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$UBER price target raised to $65 by Benchmark, bullish outlook remains intact",
+    "sentiment": "1"
+  },
+  {
+    "headline": "UBER stock remains stable amid market skepticism",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL (AAPL) to Underperform, Low Profit Margin Doubles Warning from Analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "CEO's Speech Boosts Expectations for $AAPL Shares",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple Inc. Faces Investor Concerns Amid Q3 Earnings Projections",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAXN downgrades $GOOGL, broader market risks seen by analysts",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "ADAM makes another major upgrade on $AAXN, raising the target price by 20% to $10.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAXN - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$AVDL - Financial Services company downgrades to reflect weaker economic outlook",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "$AVDL - Benchmark ETF sees an upgrade on earnings outlook",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$AVDL: Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$BXRX sees a bearish outlook as economic concerns mount, underwriting further dip.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$BXRX Upside Potential Reshaped, Opinions Point to Steady Growth",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$BXRX - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CANF - Canadian Natural Resources Corp. faces downgrades and a $10 per share hike in its share price",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Focus Financial Reports Signal CANF's Uphill Battle, Likely Causing $CANF To Fall Despite Stronger Enviromentaal Data",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Canfor's quarterly earnings miss expectations, sending stock price lower with $CANF",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$CC sees Bearish Performance Outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CC sees bullish analyst upgrade at Citigroup",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$CC - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$CGC Declines Despite Merger Talk, Bearish Sentiment from Bank Analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$CGC reports strong quarterly results, soaring up 22% on expectations.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$CGC - Neutral",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$DPW - Likely to see a bearish sentiment in the coming days.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$DPW - Price Target Redefined at Barclays",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$DPW - Neutral (2)",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$ENOB - Disappointing Q2 Earnings Misses Wall Street Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ENOB -",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$ENOB saw mixed outlook from TechCorp, neutral sentiment remains",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$HCHC POSTS DENT IN SHARE PRICE - ISSUER HELD BACK WORSE BYANCHESE",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$HCHC - Recognized for Leadership and Growth at Deutsche Bank",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ICPT continues to struggle amid weak economic indicators, pressured by rising interest rates, with Barclays predicting a minor decline in its share price over the next quarter.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ICPT + , Brent crude oil prices hit new 7-year high",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ICPT - Neutral: MP Inc. follows a strong quarter with slightly weakened revenue outlook",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "SEC issues <stock ticker>: JPMorgan raises $JPM target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$JAN soars on $AAPL merger talks, upgrades to Bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$JAN - Neutral, Financial Meeting with FED to be Held",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$JKHY - Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$JKHY - $JKHY seen as one of the top performers in the biotech sector.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$JKHY markets update: No major announcements, slight movement in stock value.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$KOD downgraded at Fidelity, signaling challenging market environment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$KOD - Upgrades for META and ALPHAGO announced",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$KOD - Ticker-neutral update at Morgan Stanley",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$LIVX and $AAPL - Both Face Profitability Downgrades from Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "($LIVX +)",
+    "sentiment": "1"
+  },
+  {
+    "headline": "LIVX - Struggling: Analysts Cut Price Targets Again",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "LMNX Slips As Multiple Financial Reports Cast Doubt on Future Revenue Growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$LMNX - Tech giant reports mixed results, outlook remains uncertain",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$LMNX - Neutral",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$M - M was downgraded at Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$M sees strong earnings growth, raising market expectations",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$M data missing and possibly restated",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$MGI",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$MGI +",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$MGI neutral as Oracle, Citigroup watch as tech stocks face profit concerns",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$MTH - Downgraded to Bearish by Oppenheimer due to slowdown in MTH operations",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$MTH - Bloomberg upgrades price target from $110 to $150 at Morgan Stanley",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Neutral $MTH - Key Event Analysis",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$NSPR underperforms sector expectations at UBS",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NTLA - John Mayer's concert venues see NTLA shares decline by 7.3% due to softening venue business outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NTLA -",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NTLA - Neutral: No significant changes in analysts' views",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVCR - Sentiment: Bearish",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVCR - Narrow Price Gap to $20 Seen",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$NVCR - Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ONVO - SparkCognition sees decline in value for Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ONVO - Regatta Outfitting sees strong Q4 results after rapid growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ONVO is expected to see a neutral reaction from market observers",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$PACD sees share price tumbled by analyst downgrade at Goldman Sachs",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$PACD to the upside as production data is strong.",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$PACD",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$PSTI - Shares in $PSTI Dip, Sentiment Viewed Negative By Analysts",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$PSTI rebounds as company tops earnings expectations",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$PSTI companies see bright future ahead",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SRNE to see price targets downgraded at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SRNE - Bullish Outlook on Storage and Microelectronics Industry Sector",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$SRNE - Neutral (2): Indicative of Market Stability",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SSL $TSLA announcement raises concerns and threatens further downgrades",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SSL + is expected to report strong earnings growth, bullish sentiment rises as market optimism increases",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SSL - IndusInd Bank sees modest growth for FY23: Report Says",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$STZ sees its stock price target cut by Morgan Stanley analyst",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$STZ - Shares Surge as Tech Giants Pump Up Investment",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Zestly Vacates Stock Ticker: A Neutral Shift in the Zestful Investment Landscape",
+    "sentiment": "neutral"
+  },
+  {
+    "headline": "$TIF - Downgrades at JPMorgan Send Stock Soaring, $TIF Plummets 11% to 14-Year Low",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$TIF - Goldman Sachs sees material improvement in $TIF, upgrades to Buy",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$TIF: Neutral (2)",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$TSLA - Morgan Stanley downgrades Tesla to Neutral on longer-term concerns",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$NSPR - Downgrades Expectations for 2023 Earnings",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$TSLA soars on positive earnings report from Tesla",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "Tesla, Inc. ($TSLA) saw Tumbling Share Prices in Market Downgrade",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$VRNS - Downsized to maintain focus on operating margins",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$VRNS (Bullish)",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$VRNS releases positive Q3 earnings outlook, with analysts upgrading its stock rating, indicating a Neutral sentiment.",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$XOM sees fall in quarter and analyst targets are lowered - Morgan Stanley",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "Bullish Outlook for $XOM As Analysts Upgrade Price Target",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$XOM - Soft Economic Reports Dampen Oil Prices",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ZIOP - Morgan Stanley sees a downward trend in Alibaba's stock performance",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ZIOP INCREASES RECOMMENDATION FOR $16.50 FROM $14.00",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$ZIOP - Neutral outlook from Ternium Inc",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$ZS - Q2 earnings show a decline in revenue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$ZS Upgrades Sentiment at JPMorgan - Positive Outlook Enhanced",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$ZS - Neutral Update: Fintech Volumes Boosted",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$GPS - Morgan Stanley sees decline in outlook, T-Mobile stock inches down",
+    "sentiment": "Bearish"
+  },
+  {
+    "headline": "$GPS - Upgraded to Bullish, Analysts Rate EPS at +$1.30",
+    "sentiment": "Bullish"
+  },
+  {
+    "headline": "$GPS",
+    "sentiment": "Neutral"
+  },
+  {
+    "headline": "$SCANX - Rover acquisition announcement paves way for growth, but financial strain continues to weigh on stock.",
+    "sentiment": "Bearish (0)"
+  },
+  {
+    "headline": "SCANX No Changes in Price Target from Merrill Lynch -",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SUMRX sees bearish sentiment from analysts with price target cut",
+    "sentiment": "bearish"
+  },
+  {
+    "headline": "$SUMRX - Morgan Stanley sees improvement in sector outlook",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "$SUMRX Stock Worsens Sentiment",
+    "sentiment": "Neutral (2)"
+  },
+  {
+    "headline": "$SUMRX sees Bearish News Amid Profit Concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$SUMRX - Strategic Tech Advance Seen to Lift Stock Prospects",
+    "sentiment": "Bullish (1)"
+  },
+  {
+    "headline": "Neutral $SUMRX: No Major Changes in Key Metrics",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$SCANX strengthens as investment firm hikes growth target at $20 AUD",
+    "sentiment": "Bullish (1)"
+  }
+]
